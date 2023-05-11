@@ -1,4 +1,4 @@
-# phase-2-lambda
+# Phase-2 Lambda Deployment
 
 ## Solution Architecture
 
