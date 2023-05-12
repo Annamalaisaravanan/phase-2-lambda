@@ -1,5 +1,11 @@
 # Phase-2 Lambda Deployment
 
+## Problem Statement
+
+Market Mix Modelling is a tool that helps marketers understand the impact of advertising and improve their tactics and delivery methods.
+
+The dataset contains spending on different advertisement channels like television, newspaper and radio, where the target variable is sales. 
+
 ## Solution Architecture
 
 ![alt text](https://github.com/Annamalaisaravanan/phase-2-lambda/blob/07e6801c32d35adc832ef504ede21d4989bd1c91/ECS-lambda3.jpg)
